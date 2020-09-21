@@ -1,6 +1,6 @@
 # nedragrevev's English Subtitles
 
-This repository contains all the SSA English subtitles I've worked on or fixed to match the most common anime home releases. It's an ongoing project/hobby and will be slowly updated with more anime if I manage to find the time needed to do this.
+This repository contains all the SSA English subtitles I've worked on or fixed to match the most common anime home releases. It's an ongoing project/hobby and will (may) be slowly updated with more anime if I manage to find the time needed to do this.
 
 ## What's the point of these? What's wrong with already available fansubs or the official BD subs?
 
@@ -23,7 +23,7 @@ As for the translation itself, I almost always makes some adjustments but I'll a
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |5 Centimenters per Second|JP Global BD|kuchikirukia|Major|Yes|All lines|All relevant signs|Yes|
 |A Silent Voice|AU Madman BD|kametsu|Minor|Yes. Version without also included|All lines|Minor|Already present|
-|I want to eat your pancreas|AU Madman BD|PAR|In progress|||Major (Completed)||
+|I want to eat your pancreas|AU Madman BD|PAR|Major (every line)|Yes, version without included|All lines|Major|No, styled to match credits|
 |Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Major <br/>(every line)|No|All lines|All relevant signs|N/A|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Major (every line + song)|No|All lines|N/A|English Lyrics Only|
 
@@ -46,7 +46,7 @@ As for the translation itself, I almost always makes some adjustments but I'll a
 |HEYA CAMP|JP BD|asenshi|Minor|Yes|Minor (All lines checked)|Minor|Yes, for ED|
 |YURU CAMP Bonus (Trike EP)|JP BD|Hikki|Major (every line)|N/A|All lines|All relevant signs|N/A|
 
-These releases include signs and songs only versions if the BD's I own have English dubs. Some have been adjusted to suit the differences (for example, VE's English dub had a few extra insert songs not present in the JP dub), but most are simply versions where the lines for dialog have been removed.
+These releases include signs and songs only versions if the BD's I own have English dubs. Some have been adjusted to suit the differences if it was a quick job (for example, VE's English dub had a few extra insert songs not present in the JP dub), but most are simply versions where the lines for dialog have been removed.
 
 ## How to use these files
 Use MKVToolNix's "Multiplexer" tab to combine/mux your encode with the relevant ".ass" sub file/s (required), all fonts (required), chapter xml if applicable, and cover.jpg if desired. Once started, the muxing process is as fast as your HDD, so in some cases it will only take a second or two.
