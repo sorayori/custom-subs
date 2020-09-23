@@ -22,8 +22,8 @@ As for the translation itself, I almost always makes some adjustments but I'll a
 |Anime Movies|BD/DVD Release|Started With|Translation Work|Honorifics?|Timing Work|Typesetting Work|Karaoke Added|
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |5 Centimenters per Second|JP Global BD|kuchikirukia|Major|Yes|All lines|All relevant signs|Yes|
-|A Silent Voice|AU Madman BD|kametsu|Minor|Yes. Version without included|All lines|Minor|Already present|
-|I want to eat your pancreas|AU Madman BD|PAR|Major (every line)|Yes, version without included|All lines|Major|No, styled to match credits|
+|A Silent Voice|AU Madman BD|kametsu|Minor|Yes, version without included|All lines|Minor|Already present|
+|I want to eat your pancreas|AU Madman BD|PAR|Major (every line)|Yes, version without included|All lines|Major, all relevant signs|No, styled to match credits|
 |Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Major <br/>(every line)|No|All lines|All relevant signs|N/A|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Major (every line + song)|No|All lines|N/A|English Lyrics Only|
 
