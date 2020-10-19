@@ -14,7 +14,7 @@ My goals:
 - Typesetting: Realistic. Enough said.
 - Songs: Appropriate karaoke effects where it works. Translation adjustments so the lyrics actually make sense (and still reflect the JP).
 - Translation: Honorifics preferred. Sensible unlocalized translations preferred (with the rare TN if required), but a second localized version will usually be included. Interjections added back in if it looks better. No swear words while trying to still convey the emotions (and charateristics) of the speaker.
-As for the translation itself, I almost always makes some adjustments but I'll avoid translating as much as possible as this is what's most exhausting. Though if I think it's needed, and it's not 20+ episodes (or typeset heavy), I'll check and retranslate every line.
+As for the translation itself, I almost always makes some minor adjustments but I'll avoid translating as much as possible as this is what's most exhausting. Though if I think it's needed, and it's not 20+ episodes (or typeset heavy), I'll check and retranslate every line.
 - Dialog: Cabin SemiBold @ font size 68.
 
 ## Basic Details for Each of these Anime Subs
@@ -37,6 +37,7 @@ As for the translation itself, I almost always makes some adjustments but I'll a
 |ARIA The AVVENIRE|Kickstarter BD|Nozomi Official (Extracted)|Minor to moderate|Yes|All lines|All relevant signs|Yes, includes inserts|
 |Chihayafuru|US Sentai BD|Commie (v2)|Minor (+Songs)|Yes|All lines|Moderate|Yes|
 |Chihayafuru 2|US Sentai BD|Commie (v2)|TO DO|-|-|-|-|
+|Detective Conan SP: EPISODE "ONE"|US Eastern Star BD|Official (Extracted)|In progress|-|-|Major (complete)|-|
 |Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|Already present.<br/>Minor changes.|
 |Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|Yes|
 |TARI TARI|US Sentai BD|project-gxs|Moderate (+Songs)|Yes|All lines|Major|Yes, includes inserts|
