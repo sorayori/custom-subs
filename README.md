@@ -23,6 +23,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |5 Centimenters per Second|JP Global BD|kuchikirukia|Major|Yes|All lines|All relevant signs|Yes|
 |A Silent Voice|AU Madman BD|kametsu|Minor|Yes, version without included|All lines|Minor|Already present|
+|Detective Conan SP: EPISODE "ONE"|US Eastern Star BD|Official (Extracted)|Major|Yes|All lines|Major|-|
 |I want to eat your pancreas|AU Madman BD|PAR|Major (every line)|Yes, version without included|All lines|Major, all relevant signs|No, styled to match credits|
 |Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Major <br/>(every line)|No|All lines|All relevant signs|N/A|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Major (every line + song)|No|All lines|N/A|English Lyrics Only|
@@ -37,7 +38,6 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |ARIA The AVVENIRE|Kickstarter BD|Nozomi Official (Extracted)|Minor to moderate|Yes|All lines|All relevant signs|Yes, includes inserts|
 |Chihayafuru|US Sentai BD|Commie (v2)|Minor (+Songs)|Yes|All lines|Moderate|Yes|
 |Chihayafuru 2|US Sentai BD|Commie (v2)|TO DO|-|-|-|-|
-|Detective Conan SP: EPISODE "ONE"|US Eastern Star BD|Official (Extracted)|In progress|-|-|Major (complete)|-|
 |Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|Already present.<br/>Minor changes.|
 |Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|Yes|
 |TARI TARI|US Sentai BD|project-gxs|Moderate (+Songs)|Yes|All lines|Major|Yes, includes inserts|
